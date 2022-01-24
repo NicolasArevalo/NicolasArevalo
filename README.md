@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolasArevalo
 - 👀 I’m interested in Develop and create 
-- 🌱 I’m currently learning Html, CSS and JS.
+- 🌱 I’m currently learning REACTjs.
 
 - 📫 How to reach me: @lunago28 in twitter.
 
