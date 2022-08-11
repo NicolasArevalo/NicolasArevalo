@@ -7,7 +7,7 @@ Software engineer
 I'm about to finish the degree. Actually in love of the web technologies focused in front-end. Nontheless, I want to learn lot of things more, I'm on the way yet. Without work experience in my field, due my responsabilities, but excited to get it.
 
 * 🌍  I'm based in Neiva, CO.
-* 🖥️  See my portfolio at [nicolasarevalo.tk](http://nicolasarevalo.tk)
+* 🖥️  See my portfolio at [niiico.com](http://niiico.com)
 * ✉️  You can contact me at [inag.458@gmail.com](mailto:inag.458@gmail.com)
 * 🧠  I'm learning web technologies, as React
 
