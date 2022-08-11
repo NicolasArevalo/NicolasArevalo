@@ -8,7 +8,7 @@ I'm about to finish the degree. Actually in love of the web technologies focused
 
 * 🌍  I'm based in Neiva, CO.
 * 🖥️  See my portfolio at [niiico.com](http://niiico.com)
-* ✉️  You can contact me at [inag.458@gmail.com](mailto:inag.458@gmail.com)
+* ✉️  You can contact me at [niiico.com/contacto](http://niiico.com/contacto)
 * 🧠  I'm learning web technologies, as React
 
 ### Skills
