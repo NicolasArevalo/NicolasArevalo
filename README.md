@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [niiico.com/blog](niiico.com/blog)
 
-- 📫 How to reach me **inag.458@gmail.com**
+- 📫 How to reach me [niiico.com/contacto](niiico.com/contacto)
 
 - 📄 Know about my experiences [niiico.com/profesional](niiico.com/profesional)
 
