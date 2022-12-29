@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolás Arévalo</h1>
 <h3 align="center">Software engineer. I'm about to finish the degree. Actually in love of the web technologies focused in front-end. Nontheless, I want to learn lot of things more, I'm on the way yet. Without work experience in my field, due my responsabilities, but excited to get it.</h3>
 
-<p align="left"> <a href="https://twitter.com/_niiico28" target="blank"><img src="https://img.shields.io/twitter/follow/lunago28?logo=twitter&style=for-the-badge" alt="lunago28" /></a> </p>
 
 - 🔭 I’m currently working on **finish my degree, and making some little projects.**
 
